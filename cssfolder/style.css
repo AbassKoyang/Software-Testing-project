@@ -1147,7 +1147,7 @@ footer .sitemap__socials i:hover{
     text-decoration: none;
 }
 .enroll__con button{
-    width: 100px;
+    width: 120px;
     height: 35px;
     color: white;
     font-size: 12px;
@@ -1616,11 +1616,20 @@ footer .sitemap__socials i:hover{
 }
 
 .working__place .company{
-    width: 25%;
+    width: 22%;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;
+    background-color: transparent;
+}
+.working__place .eventBrite{
+    width: 29%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-color: transparent;
 }
 .working__place .company i{
     font-size: 15px;
