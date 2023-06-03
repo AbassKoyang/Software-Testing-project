@@ -1147,7 +1147,7 @@ footer .sitemap__socials i:hover{
     text-decoration: none;
 }
 .enroll__con button{
-    width: 140px;
+    width: 100px;
     height: 35px;
     color: white;
     font-size: 12px;
@@ -1348,7 +1348,7 @@ footer .sitemap__socials i:hover{
     width: 90px;
     height: 30px;
     background-color: transparent;
-    border: 1.5px solid #1562ef;
+    border: 1.0px solid #1562ef;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1551,7 +1551,7 @@ footer .sitemap__socials i:hover{
     width: 90px;
     height: 30px;
     background-color:transparent;
-    border: 1.5px solid #2E76F7;
+    border: 1.0px solid #2E76F7;
     display: flex;
     align-items: center;
     justify-content: center;
