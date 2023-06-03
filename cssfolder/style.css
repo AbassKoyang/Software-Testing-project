@@ -1676,7 +1676,7 @@ footer .sitemap__socials i:hover{
     align-items: flex-start;
     justify-content: flex-start;
     flex-direction: column;
-    order: 0;
+    order: 1;
 }
 
 .section__6__inner2 .content__con h2{
